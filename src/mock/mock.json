@@ -1,0 +1,38 @@
+
+{   
+    "pictures": 
+    [
+        {
+            "name": "a",
+            "image": "images/small/bottle.jpg",
+            "year": 2001,
+            "material": "oil",
+            "price": 600,
+            "currency": "$",
+            "height": 100,
+            "width": 100,
+            "size": "small",
+            "style": "abstract", 
+            "metric system": "sm",
+            "isSold": true
+        },
+        {
+            "name": "b",
+            "image": "images/small/bottle2.jpg",
+            "year": 2001,
+            "material": "oil",
+            "price": 600,
+            "currency": "$",
+            "height": 100,
+            "width": 100,
+            "size": "small",
+            "style": "abstract", 
+            "metric system": "sm",
+            "isSold": false
+        }
+    ]
+}
+ 
+        
+    
+
